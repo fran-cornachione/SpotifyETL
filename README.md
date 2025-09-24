@@ -58,9 +58,9 @@ You will now have all your playlists saved in the **data** folder, each playlist
 
 10. **Run script `dashboard.py`**
 
-```
-streamlit run dashboard.py
-```
+   ```
+   streamlit run dashboard.py
+   ```
 
 It will automatically take you to the Streamlit UI on your browser.
 
